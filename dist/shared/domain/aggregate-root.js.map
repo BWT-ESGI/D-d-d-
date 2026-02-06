@@ -1,0 +1,1 @@
+{"version":3,"file":"aggregate-root.js","sourceRoot":"","sources":["../../../src/shared/domain/aggregate-root.ts"],"names":[],"mappings":";;;AAAA,uCAAkE;AAElE,MAAsB,aAAc,SAAQ,oBAAiB;IACzC,EAAE,CAAS;IAE3B,YAAY,EAAU;QAClB,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;IACjB,CAAC;CACJ;AAPD,sCAOC"}
